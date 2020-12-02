@@ -33,5 +33,9 @@ html {
   margin: 0;
 }
 
+body {
+  @apply bg-gray-200;
+}
+
 </style>
 
