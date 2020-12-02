@@ -1,7 +1,7 @@
 <template>
-  <div class="container__blog">
-    Hello
-  </div>
+  <nuxt-link :to="`/blog/${article.slug}`">
+    <h2>{{ article.title }}</h2>
+  </nuxt-link>
 </template>
 
 <script>
@@ -14,3 +14,7 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+
+</style>
