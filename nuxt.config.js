@@ -18,8 +18,7 @@ export default {
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
-    '~/plugins/vue-placeholders.js',
-    '~/plugins/vue-observe-visibility.client.js'
+    '~/plugins/vue-placeholders.js'
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
