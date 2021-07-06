@@ -19,6 +19,6 @@
     "@nuxtjs/svg": "^0.1.12",
     "sass": "^1.35.1",
     "sass-loader": "^12.1.0",
-    "@nuxtjs/tailwindcss": "^4.2.0"
+    "@nuxtjs/tailwindcss": "^4.2.1"
   }
 }
