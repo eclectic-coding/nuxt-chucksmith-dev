@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@nuxtjs/svg": "^0.3.0",
-    "sass": "^1.43.3",
+    "sass": "^1.43.4",
     "sass-loader": "^12.2.0",
     "@nuxtjs/tailwindcss": "^4.2.1"
   }
